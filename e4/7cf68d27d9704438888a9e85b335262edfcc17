@@ -1,0 +1,27 @@
+website/README.md
+  4aa0706899858a9d 139-160
+website/docker-compose.yml
+  4aa0706899858a9d 1-15
+website/Dockerfile
+  4aa0706899858a9d 1-44
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.2",
+  "base_commit_sha": "e47cf68d27d9704438888a9e85b335262edfcc17",
+  "prompts": {
+    "4aa0706899858a9d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "843951ca-a741-45ad-96f6-e69df4694b76",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "shalk(xiao kun)",
+      "messages": [],
+      "total_additions": 102,
+      "total_deletions": 21,
+      "accepted_lines": 81,
+      "overriden_lines": 0
+    }
+  }
+}
