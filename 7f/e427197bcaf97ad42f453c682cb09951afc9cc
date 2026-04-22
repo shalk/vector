@@ -1,0 +1,23 @@
+website/layouts/partials/docs/sidebar.html
+  592d34b0b5cde242 50-51,54-56
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.2",
+  "base_commit_sha": "7fe427197bcaf97ad42f453c682cb09951afc9cc",
+  "prompts": {
+    "592d34b0b5cde242": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ac56bb70-6363-4e5d-9de2-ded3a6296ef6",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "shalk(xiao kun)",
+      "messages": [],
+      "total_additions": 231,
+      "total_deletions": 2,
+      "accepted_lines": 8,
+      "overriden_lines": 31
+    }
+  }
+}
